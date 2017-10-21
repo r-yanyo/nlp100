@@ -1,0 +1,1 @@
+paste cut1.txt cut2.txt > hightemp_paste.txt
